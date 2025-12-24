@@ -313,8 +313,8 @@ elif "Letters" in secim:
 # 5. BÖLÜM: CROSSWORDS (BULMACA)
 # ==========================================
 elif "Quiz" in secim:
-    st.header("Bizim Bulmacamız 🧩")
-    st.write("Aşağıdaki ipuçlarını oku ve cevapları kutucuklara yaz. Bakalım hepsini hatırlayacak mısın?")
+    st.header("A little quiz that I prepared that has a grand prize 🧩")
+    st.write("Read the hints and try to guess the words!")
     st.markdown("---")
 
     # --- AYARLAR: KELİMELER VE İPUÇLARI BURAYA ---
