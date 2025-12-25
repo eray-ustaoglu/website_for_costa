@@ -173,9 +173,9 @@ elif "Time Tunnel" in secim:
         """, unsafe_allow_html=True)
 
     memory_card(f"17 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
-    memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpg")
+    memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpeg")
     memory_card(f"24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
-    memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpg")
+    memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpeg")
     memory_card(f"29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️")
     memory_card(f"12 June 2025", "And We can't forget about \"I ReaLLy MiSs you AnD I REally WanT you, I'm DanciNg In a FounTaiN BarEfOOt.\"", "🦶🏽")
     memory_card(f"16 June 2025", "The day that I arrived in Florence for the first time, I can still remember how my legs where shaking during the train ride.", "🚆")
