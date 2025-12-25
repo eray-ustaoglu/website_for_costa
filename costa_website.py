@@ -200,7 +200,10 @@ elif "Time Tunnel" in secim:
     memory_card(f"16 June 2025", "The day that I arrived in Florence for the first time, I can still remember how my legs where shaking during the train ride.", "🚆")
     memory_card(f"18 June 2025", "Night on your teras, it's one of the days that I won't foget about until I die.", "🍕","photos/pizza_night.png")
     memory_card(f"2 July 2025", "We applied to a procject together even tho I didn't get accpeted it lead to another amazing event.", "🤗")
-  
+    memory_card(f"12 July 2025", "When you sent me photos from this festival, I was amazed with how cool of a person I am with.", "🪇","photos/festival_costa.jpeg")
+    memory_card(f"19 July 2025", "Althougt I guess we had longer videocalls as well but at this date there was the longest and recorded one hahahaha five and a half hours...", "📞")
+    memory_card(f"27 July 2025", "We booked the airbnb for the rhodos trip!!!! (a week in heaven, not cuz it's a vacation on an island, cuz it's with you).", "🌴","photos/airbnb.jpeg")
+    
 
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
