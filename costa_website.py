@@ -195,10 +195,10 @@ elif "Time Tunnel" in secim:
     memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpeg")
     memory_card(f"24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
     memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpeg")
-    memory_card(f"29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️")
+    memory_card(f"29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️","photos/flight_tickets.jpeg")
     memory_card(f"12 June 2025", "And We can't forget about \"I ReaLLy MiSs you AnD I REally WanT you, I'm DanciNg In a FounTaiN BarEfOOt.\"", "🦶🏽")
     memory_card(f"16 June 2025", "The day that I arrived in Florence for the first time, I can still remember how my legs where shaking during the train ride.", "🚆")
-    memory_card(f"18 June 2025", "Night on your teras, it's one of the days that I won't foget about until I die.", "🍕")
+    memory_card(f"18 June 2025", "Night on your teras, it's one of the days that I won't foget about until I die.", "🍕","photos/pizza_night.png")
     memory_card(f"2 July 2025", "We applied to a procject together even tho I didn't get accpeted it lead to another amazing event.", "🤗")
   
 
