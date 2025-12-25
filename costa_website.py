@@ -203,7 +203,7 @@ elif "Time Tunnel" in secim:
     memory_card(f"12 July 2025", "When you sent me photos from this festival, I was amazed with how cool of a person I am with.", "🪇","photos/festival_costa.jpeg")
     memory_card(f"19 July 2025", "Althougt I guess we had longer videocalls as well but at this date there was the longest and recorded one hahahaha five and a half hours...", "📞")
     memory_card(f"27 July 2025", "We booked the airbnb for the rhodos trip!!!! (a week in heaven, not cuz it's a vacation on an island, cuz it's with you).", "🌴","photos/airbnb.jpeg")
-    
+
 
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
@@ -316,7 +316,12 @@ elif "Our Map" in secim:
 elif "Letters" in secim:
     st.header("Read these letter when you feel the need to 💌")
     with st.expander("open at 31st of December around midnight"):
-        st.write("I will write it down later...")
+        st.write("What a year I have had! Considering the things I have been through, 2025 was definitely one of the best years that I had,"
+        " and it's thanks to you. I found myself again. I learned what it means to be yourself, " \
+        "what it means to be loved and to love yourself. We made amazing memories together. " \
+        "I can't thank you enough for the things you have done for me. My biggest New Year's resolution is to spend the whole of 2026 with you again,"
+        " and the next year, and then the next, and the next... Happy New Year, amore mio. I love you with my whole being.")
+    ""
     with st.expander("♥️ I will always love you"):
         st.write("I will always love you. Before meeting you, I was this guy who thought his life was going in some direction that I didn't have much control over. " \
         "But one day it all shattered. You made me realize that I was able to be loved for who I am, and even though I have defects as a person, I could be cared for. You taught me how to value myself so that I can value you. You taught an emotionally bland guy how to feel." \
