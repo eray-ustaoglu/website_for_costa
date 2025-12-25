@@ -191,7 +191,7 @@ elif "Time Tunnel" in secim:
         </div>
         """, unsafe_allow_html=True)
 
-    memory_card(f"17 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
+    memory_card(f"19 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
     memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpeg")
     memory_card(f"24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
     memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpeg")
