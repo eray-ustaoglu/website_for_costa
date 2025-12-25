@@ -217,7 +217,7 @@ elif "Time Tunnel" in secim:
 )
     memory_card(f"15 September 2025", "Us conquering Lindos toghether.", "🏺","photos/lindos.jpg")
     memory_card(f"24 September 2025", "Council of huge chips can hat costa approves","🎩","photos/council.jpg")
-    memory_card(f"27 October 2025", "I wish to walk the streets of sarajevo together with you one day","🧑‍🤝‍👩","photos/sarajevo.jpg")
+    memory_card(f"27 October 2025", "I wish to walk the streets of sarajevo together with you one day","🧑‍🤝‍👩","photos/sarajevo0.jpg")
     memory_card(f"2 November 2025", "I'm just having fun at this point puasudhguahurguhe.", "","photos/banana.jpeg")
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
