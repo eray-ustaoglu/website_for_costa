@@ -209,9 +209,7 @@ elif "Time Tunnel" in secim:
     memory_card(f"10 September 2025", "Time for the flight to rodos, sitll remember how I felt checking the arrivals board every second.", "✈️","photos/rodi_trip.jpg")
     memory_card(f"11 September 2025", "Who could have thought tuborg made soda or juice or whatever the fuck this is?", "🍺","photos/tuborg.jpg")
     memory_card(f"13 September 2025", "A beutiful aquarium date with my love, learnt how much you don't like octopuses hehe.", "🐙","photos/aquarium.jpg")
-    memory_card(f"13-14 September 2025", "If I had to explain someone the perfect day this would be it,"/
-                " time at the taverna and then laying on the beach beds with you, and after all of that the making our relationship offical."/
-                " I remember how much I love you every time I think about this day.", "💗","photos/taverna.jpg")
+    memory_card(f"13-14 September 2025", "If I had to explain someone the perfect day this would be it, time at the taverna and then laying on the beach beds with you, and after all of that the making our relationship offical. I remember how much I love you every time I think about this day.", "💗","photos/taverna.jpg")
 
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
