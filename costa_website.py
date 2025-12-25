@@ -215,7 +215,7 @@ elif "Time Tunnel" in secim:
     "💗", 
     "photos/taverna.jpg"
 )
-
+    memory_card(f"15 September 2025", "Us conquering Lindos toghether.", "🏺","photos/lindos.jpg")
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
 # ==========================================
