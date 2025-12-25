@@ -158,7 +158,13 @@ elif "Time Tunnel" in secim:
     st.header("A throwback to our story 📅")
     st.write("---")
     
-    def memory_card(tarih, olay, emoji):
+    def memory_card(tarih, olay, emoji,foto=None):
+        img_html = ""
+        if foto:
+            kodlanmis_foto = fotoyu_kodla(foto)
+            if kodlanmis_foto:
+                img_html = f'<img src="{kodlanmis_foto}" style="width:100%; border-radius:10px; margin-top:10px; border: 2px solid #C5E1A5;">'
+
         st.markdown(f"""
         <div style="background-color: #F1F8E9; padding: 15px; border-radius: 15px; margin-bottom: 10px; border-left: 5px solid #8BC34A;">
             <h4 style="margin:0; color:#33691E;">{emoji} {tarih}</h4>
@@ -166,15 +172,15 @@ elif "Time Tunnel" in secim:
         </div>
         """, unsafe_allow_html=True)
 
-    memory_card("17 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
-    memory_card("23 May 2025", "Your First ever message to me.", "💬")
-    memory_card("24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
-    memory_card("29 May 2025", "Day I got to learn what porca madonna meant.", "🤬")
-    memory_card("29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️")
-    memory_card("12 June 2025", "And We can't forget about \"I ReaLLy MiSs you AnD I REally WanT you, I'm DanciNg In a FounTaiN BarEfOOt.\"", "🦶🏽")
-    memory_card("16 June 2025", "The day that I arrived in Florence for the first time, I can still remember how my legs where shaking during the train ride.", "🚆")
-    memory_card("18 June 2025", "Night on your teras, it's one of the days that I won't foget about until I die.", "🍕")
-    memory_card("2 July 2025", "We applied to a procject together even tho I didn't get accpeted it lead to another amazing event.", "🤗")
+    memory_card(f"17 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
+    memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpg")
+    memory_card(f"24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
+    memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpg")
+    memory_card(f"29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️")
+    memory_card(f"12 June 2025", "And We can't forget about \"I ReaLLy MiSs you AnD I REally WanT you, I'm DanciNg In a FounTaiN BarEfOOt.\"", "🦶🏽")
+    memory_card(f"16 June 2025", "The day that I arrived in Florence for the first time, I can still remember how my legs where shaking during the train ride.", "🚆")
+    memory_card(f"18 June 2025", "Night on your teras, it's one of the days that I won't foget about until I die.", "🍕")
+    memory_card(f"2 July 2025", "We applied to a procject together even tho I didn't get accpeted it lead to another amazing event.", "🤗")
   
 
 # ==========================================
