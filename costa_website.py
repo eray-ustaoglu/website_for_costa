@@ -128,7 +128,7 @@ st.sidebar.markdown("Developed by your lover 😘")
 # 1. BÖLÜM: HOME PAGE
 # ==========================================
 if "Home Page" in secim:
-    st.title("Welcome to our website ☀️")
+    st.title("Ciao amore mio, I made this website for you!! ☀️")
     st.image("photos/costa_kolaj.png",use_container_width=True) 
     
     baslangic_tarihi = datetime(2025, 5, 17) 
@@ -193,7 +193,6 @@ elif "Time Tunnel" in secim:
 
     memory_card(f"19 May 2025", "The first time that I heard your beautiful voice.", " 🎶")
     memory_card(f"23 May 2025", "Your First ever message to me.", "💬","photos/first_msg.jpeg")
-    memory_card(f"24 May 2025", "The first reels video that you sent me on instagram.", "🎥")
     memory_card(f"29 May 2025", "Day I got to learn what porca madonna meant.", "🤬","photos/porca_madonna.jpeg")
     memory_card(f"29 May 2025", "at 19:57 I made one of the best and boldest decision of my life with buying those tikets to florence.", "🎟️","photos/flight_tickets.jpeg")
     memory_card(f"12 June 2025", "And We can't forget about \"I ReaLLy MiSs you AnD I REally WanT you, I'm DanciNg In a FounTaiN BarEfOOt.\"", "🦶🏽")
@@ -219,6 +218,9 @@ elif "Time Tunnel" in secim:
     memory_card(f"24 September 2025", "Council of huge chips can hat costa approves","🎩","photos/council.jpg")
     memory_card(f"27 October 2025", "I wish to walk the streets of sarajevo together with you one day","🧑‍🤝‍👩","photos/sarajevo0.jpg")
     memory_card(f"2 November 2025", "I'm just having fun at this point puasudhguahurguhe.", "","photos/banana.jpeg")
+    memory_card(f"25 November 2025", "Day that I was finally able to receive the postcard that you sent me from Sarajevo after 1 month of delay haha.", "🎁","photos/postcard.jpg")
+    memory_card(f"26 November 2025", "An artpiece that represents how our relationship makes us feel by Costanza Del Bianco", "🎤","photos/feelings.jpg")
+    memory_card(f"27 November 2025", "This is the date that I'm writing this text on this website, all this process made me realized that how much fun I had with you and I want to spend a lifetime with you so that we can create lifelong memories together", "💗")
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
 # ==========================================
