@@ -104,7 +104,7 @@ st.markdown("""
     
     /* Üzerine gelince efekt */
     div.stButton > button[kind="primary"]:hover { 
-        background-color: #C2185B; 
+        background-color: #EFFD5F; /* Daha parlak sarı */
         transform: scale(1.05); /* Hafif büyüme efekti */
         box-shadow: 0 6px 20px rgba(233, 30, 99, 0.6);
     }
