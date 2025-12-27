@@ -220,7 +220,7 @@ elif "Time Tunnel" in secim:
     memory_card(f"2 November 2025", "I'm just having fun at this point puasudhguahurguhe.", "","photos/banana.jpeg")
     memory_card(f"25 November 2025", "Day that I was finally able to receive the postcard that you sent me from Sarajevo after 1 month of delay haha.", "🎁","photos/postcard.jpg")
     memory_card(f"26 November 2025", "An artpiece that represents how our relationship makes us feel by Costanza Del Bianco", "🎤","photos/feelings.jpg")
-    memory_card(f"27 November 2025", "This is the date that I'm writing this text on this website, all this process made me realized that how much fun I had with you and I want to spend a lifetime with you so that we can create lifelong memories together", "💗")
+    memory_card(f"27 December 2025", "This is the date that I'm writing this text on this website, all this process made me realized that how much fun I had with you and I want to spend a lifetime with you so that we can create lifelong memories together", "💗")
 # ==========================================
 # 3. BÖLÜM: OUR MAP (FOTOĞRAFLI & LİSTELİ)
 # ==========================================
